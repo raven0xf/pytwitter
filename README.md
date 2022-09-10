@@ -28,11 +28,11 @@ This is what it currently looks like:
 
 ## Forthcoming features
 
-I compiled this list of features that I would like to add to this library:
+I compiled a list of features that I would like to add to this library:
 
 * User login
 * Searching for specific keywords
 * Follow and unfollow user(s)
-4- Fetch followers of user(s)
+* Fetch followers of user(s)
 
 There is more to come.
