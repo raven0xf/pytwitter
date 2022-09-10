@@ -30,9 +30,9 @@ This is what it currently looks like:
 
 I compiled this list of features that I would like to add to this library:
 
-1- User login\n
-2- Searching for specific keywords\n
-3- Follow and unfollow user(s)\n
+* User login
+* Searching for specific keywords
+* Follow and unfollow user(s)
 4- Fetch followers of user(s)
 
 There is more to come.
