@@ -23,7 +23,7 @@ As of now, the authorization process is not that speedy, but this version is sti
 
 This is what it currently looks like: 
 
-![alt text](https://github.com/jasonmichael13/pytwitter/alpha-auth.png?raw=true)
+![alt text](https://github.com/jasonmichael13/pytwitter/blob/main/alpha-auth.png?raw=true)
 
 
 ## Forthcoming features
