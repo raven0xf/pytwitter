@@ -23,16 +23,16 @@ As of now, the authorization process is not that speedy, but this version is sti
 
 This is what it currently looks like: 
 
-![alt text](https://github.com/jasonmichael13/pytwitter/alpha-auth.jpg?raw=true)
+![alt text](https://github.com/jasonmichael13/pytwitter/alpha-auth.png?raw=true)
 
 
 ## Forthcoming features
 
 I compiled this list of features that I would like to add to this library:
 
-1- User login
-2- Searching for specific keywords
-3- Follow and unfollow user(s)
+1- User login\n
+2- Searching for specific keywords\n
+3- Follow and unfollow user(s)\n
 4- Fetch followers of user(s)
 
 There is more to come.
