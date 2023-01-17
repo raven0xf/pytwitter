@@ -1,4 +1,4 @@
-# pytwitter v 0.1
+# twPy v 0.1
 A simple but extremely reliable Python library for accessing the Twitter API.
 Pytwitter prioritizes swiftness and simplicity over everything else.
 
@@ -8,7 +8,7 @@ For now, it's not on PyPi
 ## Proof of concept
 
 ```
-from pytwitter import *
+from twPy import *
 
 API_KEY = "XXXXXX"
 API_SECRET = "XXXXXXXXXXXXXXXX"
