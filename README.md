@@ -1,6 +1,6 @@
 # twPy v 0.1
 A simple but extremely reliable Python library for accessing the Twitter API.
-Pytwitter prioritizes swiftness and simplicity over everything else.
+twPy prioritizes swiftness and simplicity over everything else.
 
 This is still a WiP project.
 For now, it's not on PyPi
